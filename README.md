@@ -16,3 +16,6 @@ For the tips, any replacement cane tip for 3/4" cane diameters should work. We s
 
 ## Kerfing pattern
 We have attached the kerf pattern that we used. If engraved decorations are wanted, simply overlay an SVG on top of it and set the design to be raster engraved.
+
+## Contact
+Please email jcao22@cs.washington.edu if you have any questions.
